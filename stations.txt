@@ -1,13 +1,1 @@
-{
-	"version": "0.1",
-	"stations": {
-		"station": [{
-			"name": "wdr2",
-			"url": "http://wdr-mp3-m-wdr2-bielefeld.akacast.akamaistream.net/7/524/119456/v1/gnl.akacast.akamaistream.net/wdr-mp3-m-wdr2-bielefeld"
-		}, {
-			"name": "wdr3",
-			"url": "http://wdr_ios_wdr3-i.akamaihd.net/hls/live/206021/x1x/playlist1x.m3u8"
-		}]
-
-	}
-}
+{"version":"0.1","stations":{"station":[{"name":"wdr2","url":"http://wdr-mp3-m-wdr2-bielefeld.akacast.akamaistream.net/7/524/119456/v1/gnl.akacast.akamaistream.net/wdr-mp3-m-wdr2-bielefeld"},{"name":"wdr3","url": "http://wdr_ios_wdr3-i.akamaihd.net/hls/live/206021/x1x/playlist1x.m3u8"}]}}
